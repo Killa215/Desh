@@ -1,0 +1,12 @@
+
+*{
+  margin: 0;
+  background: #0d1b2a;
+  color: #d4c4a8;
+}
+
+.app-container {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+}

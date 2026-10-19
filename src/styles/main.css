@@ -1,0 +1,23 @@
+.main {
+  width: 100%;
+}
+
+.activePerson {
+  width: 100% - 10px; 
+  height: auto;
+  margin: 20px;
+  padding: 10px;
+  background: #415a77;
+  border-radius: 14px;
+  box-sizing: border-box;
+}
+
+.currencyChart{
+  width: 100% - 10px; 
+  height: auto;
+  margin: 20px;
+  padding: 10px;
+  background: #415a77;
+  border-radius: 14px;
+  box-sizing: border-box;
+}
