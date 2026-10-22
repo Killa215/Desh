@@ -14,14 +14,14 @@ export default function AsideBar({active, setActive}){
             Main
           </button>
           <button 
-            className={active === 'a' ? 'active' : 'uiLink'}
-            onClick={()=>setActive('a')}>
+            className={active === 'Tasck' ? 'active' : 'uiLink'}
+            onClick={()=>setActive('Tasck')}>
             Tasks
           </button>
           <button 
-            className={active === 's' ? 'active' : 'uiLink'}
-            onClick={()=>setActive('s')}>
-            s
+            className={active === 'СalorieСounter' ? 'active' : 'uiLink'}
+            onClick={()=>setActive('СalorieСounter')}>
+            Сalorie Сounter
           </button>
           <button 
             className={active === 'd' ? 'active' : 'uiLink'}
